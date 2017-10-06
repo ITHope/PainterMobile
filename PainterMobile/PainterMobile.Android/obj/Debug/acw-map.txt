@@ -1,0 +1,4 @@
+PainterMobile.Droid.MainActivity, PainterMobile.Android;md5ccaac818ae9fbcf8ab166e62a9797933.MainActivity
+PainterMobile.Droid.MainActivity, PainterMobile.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ccaac818ae9fbcf8ab166e62a9797933.MainActivity
+PainterMobile.Droid.MainActivity;md5ccaac818ae9fbcf8ab166e62a9797933.MainActivity
+paintermobile.droid.MainActivity;md5ccaac818ae9fbcf8ab166e62a9797933.MainActivity

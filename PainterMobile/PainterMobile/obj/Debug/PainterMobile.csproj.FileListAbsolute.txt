@@ -1,0 +1,6 @@
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\bin\Debug\PainterMobile.dll
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\bin\Debug\PainterMobile.pdb
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\obj\Debug\PainterMobile.csprojResolveAssemblyReference.cache
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\obj\Debug\PainterMobile.csproj.CoreCompileInputs.cache
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\obj\Debug\PainterMobile.dll
+E:\CSharpDev\2017.10.06\PainterMobile\PainterMobile\PainterMobile\obj\Debug\PainterMobile.pdb
